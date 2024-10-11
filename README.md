@@ -1,4 +1,4 @@
-# Text-to-Speech-Chrome-Ext# Text-to-Speech Chrome Extension
+# Text-to-Speech Chrome Extension
 
 A Chrome extension that automatically reads selected text aloud from any webpage, with intelligent voice selection and immediate stop functionality when text is deselected.
 
