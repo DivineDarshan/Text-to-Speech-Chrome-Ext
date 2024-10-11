@@ -15,7 +15,7 @@ A Chrome extension that automatically reads selected text aloud from any webpage
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/DivineDarshan/text-to-speech-chrome-ext
+git clone https://github.com/DivineDarshan/Text-to-Speech-Chrome-Ext
 ```
 
 2. Open Chrome and navigate to `chrome://extensions/`
